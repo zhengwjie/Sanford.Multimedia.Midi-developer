@@ -1,0 +1,7 @@
+Documentation.xml
+obj/
+bin/Debug/SequencerDemo.vshost.exe.manifest
+bin/
+*.suo
+*.csproj.user
+/.vs/Sanford.Multimedia.Midi/v15/Server/sqlite3/db.lock
