@@ -146,6 +146,8 @@ namespace Sanford.Multimedia.Midi.UI
                 base.OnMouseUp(e);
             }
 
+
+
             protected override void OnMouseMove(MouseEventArgs e)
             {
                 if(e.X < 0 || e.X > Width || e.Y < 0 || e.Y > Height)
